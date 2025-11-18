@@ -21,4 +21,4 @@ HTML | CSS | JavaScript | TypeScript | React | Next.js
 
 📫 How to reach me:  
 
-[LinkedIn](https://www.linkedin.com/in/yevheniia-serhieieva-ab200b383/) | [Telegram](https://t.me/Yevheniia_Serhieieva) | [Email](y.o.serhieieva@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yevheniia-serhieieva-ab200b383/) | [Telegram](https://t.me/Yevheniia_Serhieieva) | [Email](mailto:y.o.serhieieva@gmail.com)
